@@ -1,0 +1,12 @@
+.generated
+.github
+.idea
+.jest-cache
+.next
+.vscode
+graphql/
+build
+dist
+node_modules
+out
+tools
